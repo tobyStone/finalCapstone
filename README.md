@@ -3,8 +3,7 @@ the final Capstone project of the Hyperion Bootcamp
 
 This project sets up a task management system which (after requesting a username and password) allows a user to select a number of options from the menu as follows:
 
-
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/front%20page%20maths%20inCoding.gif)
+![]([https://github.com/tobyStone/finalCapstone/blob/main/task_manager_menu.PNG]
 
 On selection, a user will then be able to complete the respective service.
 
