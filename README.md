@@ -17,7 +17,7 @@ A summary of the information in the reports was also printed to the console, as 
 
 
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/front%20page%20maths%20inCoding.gif)
+![](https://github.com/tobyStone/finalCapstone/blob/main/report_summary.PNG)
 
 Any feedback or suggested improvements to this code would be gratefully received.
 
