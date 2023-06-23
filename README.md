@@ -39,4 +39,4 @@ Toby
 
 3) Please feel free to use this code within your own task management system.
 
-4) Hyperion Dev oiginal framework for code, from task 17.
+4) Hyperion Dev oiginal framework for code, from task 17. Hyperion at https://www.hyperiondev.com/
